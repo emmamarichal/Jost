@@ -3,7 +3,26 @@
   <advance width="240"/>
   <unicode hex="0163"/>
   <outline>
-    <component base="cedilla" xOffset="-106.5" yOffset="-50.6667"/>
-    <component base="t"/>
+    <component base="cedilla" xOffset="-106" yOffset="-51" identifier="5BB6D94D"/>
+    <component base="t" identifier="0AD5C040"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-24 13:44:20 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>0AD5C040</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>5BB6D94D</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

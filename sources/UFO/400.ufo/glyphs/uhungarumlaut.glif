@@ -3,7 +3,26 @@
   <advance width="525"/>
   <unicode hex="0171"/>
   <outline>
-    <component base="hungarumlaut" xOffset="128.5" yOffset="19"/>
-    <component base="u"/>
+    <component base="hungarumlaut" xOffset="129" yOffset="19" identifier="A352ABC2"/>
+    <component base="u" identifier="2C54AC88"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-24 13:44:20 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>2C54AC88</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>A352ABC2</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

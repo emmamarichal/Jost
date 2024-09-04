@@ -17,7 +17,7 @@
   </axes>
 
   <sources>
-    <source familyname="Jost" filename="../instances/Jost-BookItalic.ufo" name="400" stylename="Italic">
+    <source familyname="Jost" filename="../instances/Jost-Italic.ufo" name="400" stylename="Italic">
       <lib copy="1"/>
       <info copy="1"/>
       <kerning copy="1"/>

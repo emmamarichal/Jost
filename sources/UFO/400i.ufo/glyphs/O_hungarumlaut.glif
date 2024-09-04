@@ -3,7 +3,26 @@
   <advance width="743"/>
   <unicode hex="0150"/>
   <outline>
-    <component base="hungarumlaut" xOffset="432.594" yOffset="264.004"/>
-    <component base="O"/>
+    <component base="hungarumlaut" xOffset="433" yOffset="264" identifier="F4889E76"/>
+    <component base="O" identifier="1486E57D"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-07-24 13:45:04 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>1486E57D</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>F4889E76</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>
