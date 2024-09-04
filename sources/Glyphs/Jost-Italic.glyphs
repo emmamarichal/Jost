@@ -61424,58 +61424,6 @@ width = 197;
 unicode = 45;
 },
 {
-glyphname = softhyphen;
-lastChange = "2024-07-24 14:04:50 +0000";
-layers = (
-{
-layerId = m001;
-shapes = (
-{
-closed = 1;
-nodes = (
-(44,275,l),
-(236,275,l),
-(210,201,l),
-(19,201,l)
-);
-}
-);
-width = 197;
-},
-{
-layerId = "E79D52FD-16C9-4CD8-B33B-848E03DA3A4F";
-shapes = (
-{
-closed = 1;
-nodes = (
-(44,275,l),
-(238,275,l),
-(214,201,l),
-(21,201,l)
-);
-}
-);
-width = 197;
-},
-{
-layerId = "6A4E6D7A-FBCF-4CEF-9028-EBF7BE717EF8";
-shapes = (
-{
-closed = 1;
-nodes = (
-(44,275,l),
-(233,275,l),
-(229,265,l),
-(41,265,l)
-);
-}
-);
-width = 197;
-}
-);
-unicode = 173;
-},
-{
 glyphname = endash;
 lastChange = "2024-07-24 13:57:39 +0000";
 layers = (
